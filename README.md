@@ -1,4 +1,4 @@
-# TAMIZH XR Home Interface – Passthrough Simulation
+# XR Home Interface – Passthrough Simulation
 
 ## Overview
 
